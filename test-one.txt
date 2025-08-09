@@ -1,3 +1,0 @@
-this file one
-
-here i make changes to test if the ignore will work
